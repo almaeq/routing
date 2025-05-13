@@ -58,9 +58,6 @@ El sistema crea una red con las siguientes características:
 #### Diagrama de la Red
 ![Diagrama del Router Central](Router%20central.jpg)
 
-<!-- Alternativa con control de tamaño -->
-<!-- <img src="Router central.jpg" alt="Diagrama del Router Central" width="600"/> -->
-
 ### Direccionamiento IP
 - Redes LAN: 10.0.1.0/24 a 10.0.6.0/24
 - Red WAN: 192.168.100.0/26
